@@ -29,7 +29,7 @@ int main(){
 
     printf("Carta 1:\nEstado: %s\nCódigo: %s%s\nNome da cidade: %s\nPopulação: %d\nÁrea: %fkm²\nPIB: %f\nPontos Turísticos: %d\n\n", letra, letra, cod, cidade, populacao, area, pib, turismo);
     
-    printf("-=-=-=-=-=-=-=-=-=-=-=-=-\n\na");
+    printf("-=-=-=-=-=-=-=-=-=-=-=-=-\n\n");
     printf("Agora digite os dados da segunda carta: \nDigite uma letra de A a H representando os 8 estados: ");
     scanf("%s", letra2);
 
